@@ -1,6 +1,22 @@
-// Import stylesheets
-import './style.css';
+// Exercício sobre Váriaveis curso Origamid
 
-// Write Javascript code!
-const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>JS Starter</h1>`;
+// Declarar uma variável com o seu nome
+// Declarar uma variável com a sua idade
+// Declarar uma variável com a sua comida
+// favorita e não atribuir valor
+// Atribuir valor a sua comida favorita
+// Declarar 5 variáveis diferentes sem valore
+
+var meuNome = 'Andressa',
+  idade = 24,
+  comidaFavorita;
+
+console.log(meuNome, idade, comidaFavorita);
+
+comidaFavorira = 'Estrogonofe';
+
+console.log(comidaFavorira);
+
+var a, b, c, d, e;
+
+console.log(a, b, c, d, e);
