@@ -7,13 +7,13 @@
 // Atribuir valor a sua comida favorita
 // Declarar 5 variáveis diferentes sem valore
 
-var meuNome = 'Andressa',
+var meuNome = "Andressa",
   idade = 24,
   comidaFavorita;
 
 console.log(meuNome, idade, comidaFavorita);
 
-comidaFavorira = 'Estrogonofe';
+comidaFavorira = "Estrogonofe";
 
 console.log(comidaFavorira);
 
